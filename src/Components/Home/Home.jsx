@@ -11,11 +11,11 @@ function Home() {
 
             <div className="home_section">
 
-                <Card src="https://images.unsplash.com/photo-1522204523234-8729aa6e3d5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                <Card src="https://www.impressiveinteriordesign.com/wp-content/uploads/2012/09/Beach-House-Interior-And-Exterior-Design-Ideas-To-Inspire-You-2.jpg"
                     title="Online Experience" description="Have an amazing online experience of our beautiful sites by logging into our application and earn lots of bonus points" 
                 />
 
-                <Card src="https://images.unsplash.com/photo-1422557379185-474fa15bf770?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+                <Card src="http://www.faburous.com/wp-content/uploads/2014/03/pgp-contemporary.jpg"
                     title="Unique Stays" description="Have amazing journey by availing our unique stays at desert, beaches, oceans near malls and enjoy local natural beauty"
                 />
 
