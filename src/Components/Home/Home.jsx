@@ -13,7 +13,7 @@ function Home() {
 
                 <Card src="https://www.impressiveinteriordesign.com/wp-content/uploads/2012/09/Beach-House-Interior-And-Exterior-Design-Ideas-To-Inspire-You-2.jpg"
                     title="Online Experience" description="Have an amazing online experience of our beautiful sites by logging into our application and earn lots of bonus points" 
-                />
+                 />
 
                 <Card src="http://www.faburous.com/wp-content/uploads/2014/03/pgp-contemporary.jpg"
                     title="Unique Stays" description="Have amazing journey by availing our unique stays at desert, beaches, oceans near malls and enjoy local natural beauty"
