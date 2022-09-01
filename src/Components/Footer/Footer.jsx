@@ -4,7 +4,7 @@ import "./footer.css"
 function Footer() {
   return (
     <div className='footer'>
-        <p>20DCS076 Harshil Patel</p>
+        <p>@20DCS076 Harshil Patel</p>
         
       
     </div>
