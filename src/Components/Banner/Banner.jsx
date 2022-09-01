@@ -4,7 +4,7 @@ import Button from '@mui/material/Button';
 import Search from "../Search/Search.jsx"
 
 function Banner() {
-    const [searchItem, setSearchItem]= useState("true");
+    const [searchItem, setSearchItem]= useState("");
 
 
   return (
